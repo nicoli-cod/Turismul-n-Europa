@@ -1,0 +1,318 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+
+body{
+   background-image: url(https://static4.libertatea.ro/wp-content/uploads/2021/08/obiective-turistice-in-europa.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   font-family: "Playfair Display", serif;
+}
+
+h1{
+   text-align: center;
+   color: azure;
+}
+h2 {
+   text-align: center;
+   color: azure;
+}
+.italy1 {
+   float: right;
+   size-adjust: 500px;
+ 
+  border: 3px solid white;
+border-radius: 15px;
+padding: 5px;
+}
+
+h3 { /*chei de intrare*/
+   margin: 10px;
+   text-align: center;
+   color: rgb(203, 49, 172);
+}
+
+   table, th, td {
+      border: 1px solid rgb(64, 4, 4);
+      font-size: 30px;
+      text-align: center;
+    }
+   
+
+.deur { /* despre europa*/
+   text-align: center;
+   text-shadow: 2px;
+   
+   color: azure;
+
+
+
+      
+} 
+
+
+.caseta {
+   border: 2px solid black;
+  padding: 10px;
+   width: 600px;
+   border-radius: 10px;
+      background-color: rgb(114, 210, 230);
+}
+
+.img2, .img3 {
+   border: 3px solid white;
+   border-radius: 15px;
+   padding: 5px;
+  float: center;
+   }
+
+
+.intrebare {
+   color: blue;
+   margin: 0 auto;
+   text-align: center;
+   border: 2px solid black;
+  padding: 10px;
+   width: 600px;
+   border-radius: 10px;
+   background-color: rgb(99, 120, 124);
+  
+} 
+
+  
+
+.i2 {
+   color: black;
+  margin: 0 auto;
+   text-align: left;
+   border: 2px solid black;
+  padding: 10px;
+   width: 600px;
+   border-radius: 10px;
+   background-color: rgb(114, 210, 230);
+
+  
+}
+.i3 {
+   color: black;
+  margin: 0 auto;
+   text-align: left;
+   border: 2px solid black;
+  padding: 10px;
+   width: 600px;
+   border-radius: 10px;
+   background-color: rgb(114, 210, 230);
+}
+.i4 {
+   color: black;
+   margin: 0 auto;
+   text-align: left;
+   border: 2px solid black;
+  padding: 10px;
+   width: 600px;
+   border-radius: 10px;
+   background-color: rgb(114, 210, 230);
+}
+.i5 {
+   color: black;
+   text-align: left;
+   margin: 0 auto;
+   border: 2px solid black;
+  padding: 10px;
+   width: 600px;
+   border-radius: 10px;
+   background-color: rgb(114, 210, 230);
+}
+.i6 {
+   color: black;
+   margin: 0 auto;
+   text-align: left;
+   border: 2px solid black;
+  padding: 10px;
+   width: 600px;
+   border-radius: 10px;
+   background-color: rgb(114, 210, 230);
+}
+.i7 {
+   color: black;
+   margin: 0 auto;
+   text-align: left;
+   border: 2px solid black;
+  padding: 10px;
+   width: 600px;
+   border-radius: 10px;
+   background-color: rgb(114, 210, 230);
+}
+
+.visit{
+   color: rgb(5, 2, 2);
+  
+   text-align: left;
+   border: 2px solid black;
+  padding: 10px;
+   width: 400px;
+   border-radius: 10px;
+   background-color: rgb(228, 244, 199);
+}
+
+h4 { /* viziteaza lonely planet*/
+text-size-adjust: 5px                              ;
+}
+ul, li {
+   text-align: left;
+   color: rgb(23, 6, 16);
+} 
+
+
+
+
+/*destinatii*/ 
+.destin{
+   
+      text-align: center;
+     margin: 0 auto;
+      color: black;
+      border: 2px solid black;
+     padding: 10px;
+      width: 400px;
+      border-radius: 10px;
+      background-color: rgb(72, 90, 225);
+}
+ .paris {
+   text-align: left;
+   text-align: left;
+   color: black;
+   border: 2px solid black;
+  padding: 10px;
+   width: 400px;
+   border-radius: 10px;
+   background-color: rgb(114, 210, 230);
+ }
+
+ 
+ .t1{
+   text-align: left;
+   color: black;
+   border: 2px solid black;
+  padding: 10px;
+   width: 400px;
+   border-radius: 10px;
+   background-color: rgb(114, 210, 230);
+
+   font-size: 20px;
+      margin-bottom: 20px;
+ }
+ .im1{
+   float: center;
+   
+ }
+
+ 
+ .roma {
+   text-align: center;
+    }
+    .barca{
+   text-align: right;
+    }
+
+    .container1 {
+      display: flex;
+      justify-content: space-around;
+      margin-top: 50px;
+    }
+  
+    .box {
+      text-align: center;
+    }
+  
+   .number{
+      font-size: 40px;
+      margin-bottom: 10px;
+   }
+
+
+
+
+   /**/
+
+
+
+   .link {
+     text-align: center; 
+
+     color: black;
+   border: 2px solid black;
+  padding: 10px;
+   width: 450px;
+   border-radius: 10px;
+   background-color: rgb(114, 210, 230);
+margin: 0 auto;
+   font-size: 20px;
+      margin-bottom: 20px;
+
+      display: flex;
+      justify-content: space-around;
+    
+   }
+   .link1{
+      text-align: center; 
+
+      color: black;
+    border: 2px solid black;
+   padding: 10px;
+    width: 250px;
+    border-radius: 10px;
+    background-color: rgb(114, 210, 230);
+ margin: 0 auto;
+    font-size: 20px;
+       margin-bottom: 20px;
+ 
+       display: flex;
+       justify-content: space-around;
+   }
+   .link2{
+      text-align: center; 
+
+      color: black;
+    border: 2px solid black;
+   padding: 10px;
+    width: 400px;
+    border-radius: 10px;
+    background-color: rgb(114, 210, 230);
+ margin: 0 auto;
+    font-size: 20px;
+       margin-bottom: 20px;
+ 
+       display: flex;
+       justify-content: space-around;
+   }
+
+  
+   .panda {
+      float: right;
+   }
+
+   .contact{
+      color: rgb(237, 194, 227);
+    border: 2px solid black;
+   padding: 10px;
+    width: 200px;
+    border-radius: 10px;
+    background-color: rgb(114, 210, 230);
+ margin: 0 auto;
+    font-size: 30px;
+       margin-bottom: 20px;
+ 
+       display: flex;
+       justify-content: space-around;
+   }
+
+   .l2{
+      
+      
+      color: rgb(237, 194, 227);
+    
+      
+   }
+   
